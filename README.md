@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mitha27-17/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Mitha27-17/Leetcode/tree/master/0414-third-maximum-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mitha27-17/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mitha27-17/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Mitha27-17/Leetcode/tree/master/0414-third-maximum-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mitha27-17/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +57,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mitha27-17/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mitha27-17/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mitha27-17/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
