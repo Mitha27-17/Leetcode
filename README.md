@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mitha27-17/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mitha27-17/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Mitha27-17/Leetcode/tree/master/0038-count-and-say) |
+| [0412-fizz-buzz](https://github.com/Mitha27-17/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Mitha27-17/Leetcode/tree/master/0520-detect-capital) |
 | [0856-score-of-parentheses](https://github.com/Mitha27-17/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mitha27-17/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Mitha27-17/Leetcode/tree/master/0412-fizz-buzz) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Mitha27-17/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mitha27-17/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/Mitha27-17/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Mitha27-17/Leetcode/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mitha27-17/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
