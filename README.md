@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mitha27-17/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mitha27-17/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mitha27-17/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mitha27-17/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mitha27-17/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mitha27-17/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Mitha27-17/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mitha27-17/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mitha27-17/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mitha27-17/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mitha27-17/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mitha27-17/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mitha27-17/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mitha27-17/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mitha27-17/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mitha27-17/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Geometry
 |  |
 | ------- |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mitha27-17/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mitha27-17/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
